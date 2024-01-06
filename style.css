@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Bethany Elingston;
+  src: url(./Bethany\ Elingston.woff2);
+}
+
 * {
   margin: 0;
   padding: 0;
